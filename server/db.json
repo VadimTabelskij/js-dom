@@ -1,0 +1,22 @@
+{
+  "animals": [
+    {
+      "id": "1",
+      "title": "Dog",
+      "year": "4",
+      "vaccine": true
+    },
+    {
+      "id": "2",
+      "title": "Cat",
+      "year": "5",
+      "vaccine": false
+    },
+    {
+      "id": "3",
+      "title": "Horse",
+      "year": "21",
+      "vaccine": false
+    }
+  ]
+}
