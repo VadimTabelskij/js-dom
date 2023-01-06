@@ -10,4 +10,4 @@ Requests examples can be viewed using [Postman](https://www.postman.com/download
 
 ## Code View
 
-You can view code in Visual studio instance using [this link](https://github.dev/VadimTabelskij?tab=repositories)
+You can view code in Visual studio instance using [this link](https://github.dev/VadimTabelskij/js-dom)
